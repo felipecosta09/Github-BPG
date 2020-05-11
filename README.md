@@ -2,7 +2,7 @@
 
 Available at https://felipecosta09.github.io/Github-BPG/index.html
 
-<img src="/docs/tm_logo.png">
+<img src="docs/tm_logo.png">
 
 ## Scan your containers with [Deep Security Smart Check](https://www.trendmicro.com/smartcheck).
 
